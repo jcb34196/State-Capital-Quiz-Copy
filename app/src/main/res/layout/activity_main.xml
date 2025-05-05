@@ -7,14 +7,14 @@
     android:gravity="center"
     android:padding="16dp">
 
-    <!-- Button to start the quiz -->
+
     <Button
         android:id="@+id/startQuizButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Start Quiz" />
 
-    <!-- Button to view past quiz results -->
+   
     <Button
         android:id="@+id/viewResultsButton"
         android:layout_width="wrap_content"

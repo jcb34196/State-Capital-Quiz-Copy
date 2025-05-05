@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:padding="16dp">
 
-    <!-- Title TextView -->
+    
     <TextView
         android:id="@+id/titleTextView"
         android:layout_width="wrap_content"
@@ -15,7 +15,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"/>
 
-    <!-- Score TextView -->
+    
     <TextView
         android:id="@+id/scoreTextView"
         android:layout_width="wrap_content"
@@ -26,7 +26,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"/>
 
-    <!-- Button to retry the quiz -->
+    
     <Button
         android:id="@+id/retryButton"
         android:layout_width="wrap_content"
@@ -36,7 +36,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="24dp"/>
 
-    <!-- Button to go to the home screen -->
+    
     <Button
         android:id="@+id/homeButton"
         android:layout_width="wrap_content"
